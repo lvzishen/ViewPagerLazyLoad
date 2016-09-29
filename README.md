@@ -1,11 +1,11 @@
-# ViewPagerLazyLoad
-viewpager懒加载
+ViewPager懒加载
+===========================
 
 http://blog.csdn.net/lvzishen123/article/details/52382687 
 
 最终代码为：
 
-
+```
 public abstract class BasePagerFragment extends Fragment {
 
     protected AppCompatActivity mActivity;
@@ -40,5 +40,5 @@ public abstract class BasePagerFragment extends Fragment {
 
 
 }
-
+```
 所需要懒加载的fragment继承此fragment并在loaddata方法里加载数据即可。
