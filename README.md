@@ -1,6 +1,8 @@
 # ViewPagerLazyLoad
 viewpager懒加载
 
+http://blog.csdn.net/lvzishen123/article/details/52382687 
+
 最终代码为：
 
 
